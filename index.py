@@ -16,3 +16,5 @@ print(name)
 colour = "Green"
 
 print(colour)
+
+print("My faviorite colour is blue.")
