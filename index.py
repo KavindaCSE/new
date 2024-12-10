@@ -12,3 +12,5 @@ name = "Chamod"
 age = 15
 
 print(name)
+
+colour = "Green"
