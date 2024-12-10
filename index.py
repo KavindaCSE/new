@@ -9,4 +9,6 @@ print(c)
 
 name = "Chamod"
 
+age = 12
+
 print(name)
