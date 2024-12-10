@@ -8,6 +8,7 @@ c = a + b
 print(c)
 
 name = "Chamod"
+
 age = 15
 
 print(name)
